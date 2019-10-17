@@ -1,0 +1,13 @@
+200120 Kate West kwest@email.com Music Arts
+200121 Julie McLain jmclain@email.com Finance Business
+200122 Tom Erlich terlich@email.com Sculpture Arts
+200123 Mark Smith msmith@email.com Biology Science
+200124 Jen Foster jfoster@email.com Physics Science
+200125 Matt Knight mknight@email.com Finance Business
+200126 Karen Weaver jkweaver@email.com Music Arts
+200127 John Smith jsmith@email.com Sculpture Arts
+200128 Allison Page apage@email.com History Humanities
+200129 Craig Cambell ccambell@email.com Music Arts
+200130 Steve Edwards sedwards@email.com Biology Science
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+200132 Jane Reid jreid@email.com Music Arts

@@ -1,0 +1,319 @@
+177,United Continental Holdings,2904 S Salina St, Syracuse, NY,5000,http://www.unitedcontinentalholdings.com
+180,INTL FCStone,5344 Haverford Ave, Philadelphia, PA,5000,http://www.intlfcstone.com
+184,Publix Super Markets,1795 Wu Meng, Muang Chonburi, ,1200,http://www.publix.com
+187,ConocoPhillips,Walpurgisstr 69, Munich, ,2400,http://www.conocophillips.com
+190,3M,Via Frenzy 6903, Roma, ,1200,http://www.3m.com
+192,Exelon,Via Luminosa 162, Firenze, ,500,http://www.exeloncorp.com
+208,Tesoro,Via Notoriosa 1942, Firenze, ,500,http://www.tsocorp.com
+207,Northwestern Mutual,1831 No Wong, Peking, ,3600,http://www.northwesternmutual.com
+200,Enterprise Products Partners,Via Notoriosa 1949, Firenze, ,2400,http://www.enterpriseproducts.com
+204,Rite Aid,Piazza Cacchiatore 23, San Giminiano, ,3600,http://www.riteaid.com
+212,Qualcomm,Piazza Svizzera, Milano, ,500,http://www.qualcomm.com
+216,EMC,Via Delle Grazie 11, San Giminiano, ,700,http://www.emc.com
+220,Time Warner Cable,1597 Legend St, Mysore, Kar,3700,http://www.twc.com
+223,Northrop Grumman,1606 Sangam Blvd, New Delhi, ,5000,http://www.northropgrumman.com
+39,Lear,2115 N Towne Ln Ne, Cedar Rapids, IA,500,http://www.lear.com
+43,Facebook,5112 Sw 9Th St, Des Moines, IA,500,http://www.facebook.com
+46,Supervalu,8989 N Port Washington Rd, Milwaukee, WI,500,http://www.supervalu.com
+49,NextEra Energy,4715 Sprecher Rd, Madison, WI,600,http://www.nexteraenergy.com
+52,PG&E Corp.,8600 W National Ave, Milwaukee, WI,700,http://www.pge.com
+55,Goodyear Tire & Rubber,600 N Broadway Fl 1, Milwaukee, WI,700,http://www.goodyear.com
+59,Micron Technology,411 E Wisconsin Ave # 2550, Milwaukee, WI,700,http://www.micron.com
+62,ConAgra Foods,122 E Dayton St, Madison, WI,900,http://www.conagrafoods.com
+66,Bank of New York Mellon Corp.,666 22Nd Ave Ne, Minneapolis, MN,1200,http://www.bnymellon.com
+71,Genuine Parts,200 1St St Sw, Rochester, MN,1200,http://www.genpt.com
+75,Omnicom Group,2134 W Genesee St, Syracuse, NY,1200,http://www.omnicomgroup.com
+79,Monsanto,137 Lark St, Albany, NY,1200,http://www.monsanto.com
+83,National Oilwell Varco,1 Palisade Ave Fl 2, Yonkers, NY,1200,http://www.nov.com
+86,Marriott International,Po Box 2152, Buffalo, NY,1200,http://www.marriott.com
+228,Kinder Morgan,1614 Gitanjali Rd, Calcutta, ,5000,http://www.kindermorgan.com
+231,Molina Healthcare,1617 Crackers St, Bangalore - India, Kar,300,http://www.molinahealthcare.com
+235,Lincoln National,1622 Roja St, Chennai, Tam,5000,http://www.lfg.com
+238,C.H. Robinson Worldwide,1628 Pataudi St, New Delhi, ,1900,http://www.chrobinson.com
+242,Synnex,1647 Suspense St, Cochin, Ker,500,http://www.synnex.com
+245,HollyFrontier,1656 Veterans Rd, Chennai, Tam,2500,http://www.hollyfrontier.com
+249,PBF Energy,Piazza Quattre Stagioni 4, Roma, ,3700,http://www.pbfenergy.com
+255,Waste Management,Via Di Firenze 231, Roma, ,2400,http://www.wm.com
+259,Parker-Hannifin,Canale Grande 2, Roma, ,700,http://www.parker.com
+263,Farmers Insurance Exchange,Via Dello Croce 93, Tellaro, ,100,http://www.farmers.com
+268,VF,1971 Limelight Blvd, Samutprakarn, ,1200,http://www.vfc.com
+313,Hertz Global Holdings,1616 Crackers Blvd, Bangalore - India, Kar,5000,http://www.hertz.com
+319,BB&T Corp.,1668 Chong Tao, Beijing, ,200,http://www.bbt.com
+32,Global Partners,1135 Catherine St, Ann Arbor, MI,400,http://www.globalp.com
+63,Sempra Energy,633 S Hawley Rd, Milwaukee, WI,900,http://www.sempra.com
+78,Precision Castparts,726 Union St, Hudson, NY,1200,http://www.precast.com
+111,W.W. Grainger,378 S Negley Ave, Pittsburgh, PA,1500,http://www.grainger.com
+125,Air Products & Chemicals,612 Jefferson Ave, Scranton, PA,2300,http://www.airproducts.com
+163,Charter Communications,802 North Ave, Pittsburgh, PA,3600,http://www.charter.com
+195,Applied Materials,Via Dolorosa 69, Tellaro, ,700,http://www.appliedmaterials.com
+206,Ally Financial,Via Notoriosa 1949, Ventimiglia, ,3600,http://www.ally.com
+218,Lennar,1592 Silverado St, Bangalore, Kar,700,http://www.lennar.com
+243,Hormel Foods,1648 Anamika St, Cochin, Ker,500,http://www.hormelfoods.com
+254,PayPal Holdings,Via Dello Croce 93, Roma, ,1200,http://www.paypal.com
+266,Autoliv,Via Delle Capeletti 52, San Giminiano, ,400,http://www.autoliv.com
+294,Corning,Pfannenstilstr 13, Egg, ZH,2300,http://www.corning.com
+301,Univar,1598 Legend St, Bangalore, Kar,5000,http://www.univar.com
+314,Thrivent Financial for Lutherans,1617 Crackers St, Bangalore - India, Kar,900,http://www.thrivent.com
+88,Walmart,1790 Grand Blvd, Schenectady, NY,1200,http://www.walmart.com
+89,Exxon Mobil,7 Ingelside Ln, White Plains, NY,1200,http://www.exxonmobil.com
+90,Apple,18 Glenridge Rd, Schenectady, NY,1200,http://www.apple.com
+91,Berkshire Hathaway,6432 Rising Sun Ave, Philadelphia, PA,1200,http://www.berkshirehathaway.com
+92,McKesson,Rr 10, Reading, PA,1200,http://www.mckesson.com
+93,UnitedHealth Group,2455 Rose Garden Rd, Pittsburgh, PA,1200,http://www.unitedhealthgroup.com
+94,CVS Health,1812 Timberline Rd, Altoona, PA,1200,http://www.cvshealth.com
+95,General Motors,141 Schiller St, Reading, PA,1200,http://www.gm.com
+96,Ford Motor,1126 Pawlings Rd, Norristown, PA,1200,http://www.ford.com
+97,AT&T,55 Church Hill Rd, Reading, PA,1200,http://www.att.com
+98,General Electric,354 N Prince St, Lancaster, PA,1200,http://www.ge.com
+99,AmerisourceBergen,115 Chestnut St, Philadelphia, PA,1400,http://www.amerisourcebergen.com
+100,Verizon,2899 Grand Ave, Pittsburgh, PA,1400,http://www.verizon.com
+101,Chevron,Po Box 39, Indiana, PA,1400,http://www.chevron.com
+102,Costco,1604 Broadway Ave, Pittsburgh, PA,1400,http://www.costco.com
+103,Fannie Mae,4734 Liberty Ave, Pittsburgh, PA,1400,http://www.fanniemae.com
+104,Kroger,21 Thornwood Rd, Harrisburg, PA,1400,http://www.thekrogerco.com
+105,Amazon.com,3725 W Lake Rd, Erie, PA,1400,http://www.amazon.com
+106,Walgreens Boots Alliance,1808 4Th Ave, Altoona, PA,1400,http://www.walgreensbootsalliance.com
+107,HP,Station Sq, Pittsburgh, PA,1400,http://www.hp.com
+108,Cardinal Health,4020 Garden Ave, Erie, PA,1400,http://www.cardinal.com
+109,Express Scripts Holding,100 N Peach St, Philadelphia, PA,1400,http://www.express-scripts.com
+110,J.P. Morgan Chase,835 Heister Ln, Reading, PA,1400,http://www.jpmorganchase.com
+112,Boeing,5643 N 5Th St, Philadelphia, PA,1500,http://www.boeing.com
+113,Microsoft,1401 W Warren Rd, Bradford, PA,1500,http://www.microsoft.com
+114,Bank of America Corp.,815 Freeport Rd, Pittsburgh, PA,1500,http://www.bankofamerica.com
+115,Wells Fargo,327 N Washington Ave # 300, Scranton, PA,1900,http://www.wellsfargo.com
+117,Home Depot,4901 Locust Ln, Harrisburg, PA,2300,http://www.homedepot.com
+118,Citigroup,3376 Perrysville Ave, Pittsburgh, PA,2300,http://www.citigroup.com
+119,Phillips 66,220 Penn Ave # 300, Scranton, PA,2300,http://www.phillips66.com
+121,IBM,522 Swede St, Norristown, PA,2300,http://www.ibm.com
+122,Valero Energy,7708 City Ave, Philadelphia, PA,2300,http://www.valero.com
+123,Anthem,1801 Lititz Pike, Lancaster, PA,2300,http://www.antheminc.com
+124,Procter & Gamble,101 E Olney Ave, Philadelphia, PA,2300,http://www.pg.com
+127,Alphabet,36 W 34Th St, Erie, PA,2400,http://www.google.com
+128,Comcast,1007 Mount Royal Blvd, Pittsburgh, PA,2400,http://www.comcastcorporation.com
+129,Target,601 Market St, Philadelphia, PA,2400,http://www.target.com
+132,MetLife,5122 Sinclair Ln, Baltimore, MD,2400,http://www.metlife.com
+133,Archer Daniels Midland,680 Bel Air Rd, Bel Air, MD,2400,http://www.adm.com
+135,Freddie Mac,8004 Stansbury Rd, Baltimore, MD,2400,http://www.freddiemac.com
+136,PepsiCo,10209 Yearling Dr, Rockville, MD,2400,http://www.pepsico.com
+137,United Technologies,3000 Greenmount Ave, Baltimore, MD,2400,http://www.utc.com
+139,Lowe?s,1262 Vocke Rd, Cumberland, MD,2400,http://www.lowes.com
+140,UPS,3314 Eastern Ave, Baltimore, MD,2400,http://www.ups.com
+142,Prudential Financial,11200 Scaggsville Rd, Laurel, MD,2400,http://www.prudential.com
+144,Humana,2300 Harford Rd, Baltimore, MD,2400,http://www.humana.com
+145,Disney,2 2Nd St # A, Ocean City, MD,2400,http://www.disney.com
+146,Cisco Systems,6917 W Oklahoma Ave, Milwaukee, WI,2400,http://www.cisco.com
+148,Dow Chemical,160 Glenwood Ave, Minneapolis, MN,2400,http://www.dow.com
+149,Sysco,6915 Grand Ave, Hammond, IN,2400,http://www.sysco.com
+151,Caterpillar,65 Cadillac Sq # 2701, Detroit, MI,2500,http://www.caterpillar.com
+152,Lockheed Martin,3435 Tuscany Dr Se, Grand Rapids, MI,2500,http://www.lockheedmartin.com
+155,Coca-Cola,810 1St Ave, Council Bluffs, IA,3500,http://www.coca-colacompany.com
+156,HCA Holdings,500 W Oklahoma Ave, Milwaukee, WI,3500,http://www.hcahealthcare.com
+159,Energy Transfer Equity,1721 E Lake St, Minneapolis, MN,3600,http://www.energytransfer.com
+160,Tyson Foods,255 Great Arrow Ave, Buffalo, NY,3600,http://www.tysonfoods.com
+162,Delta Air Lines,6640 Campbell Blvd, Lockport, NY,3600,http://www.delta.com
+164,Nationwide,1136 Arch St, Philadelphia, PA,3600,http://www.nationwide.com
+166,Best Buy,Rt 6 E, Warren, PA,3700,http://www.bestbuy.com
+167,Merck,1924 Bedford St, Cumberland, MD,3700,http://www.merck.com
+169,Liberty Mutual Insurance Group,2713 N Bendix Dr, South Bend, IN,3700,http://www.libertymutual.com
+171,Honeywell International,752 W Huron St, Pontiac, MI,3700,http://www.honeywell.com
+173,Massachusetts Mutual Life Insurance,1330 N Memorial Dr, Racine, WI,5000,http://www.massmutual.com
+175,Morgan Stanley,8 Automation Ln, Albany, NY,5000,http://www.morganstanley.com
+176,Cigna,811 N Brandywine Ave, Schenectady, NY,5000,http://www.cigna.com
+178,Allstate,3025 Sussex Ave, Pittsburgh, PA,5000,http://www.allstate.com
+179,TIAA,932 High St, Lancaster, PA,5000,http://www.tiaa.org
+181,CHS,6959 Tulip St, Philadelphia, PA,5000,http://www.chsinc.com
+182,American Express,511 S Central Ave # A, Baltimore, MD,5000,http://www.americanexpress.com
+183,Gilead Sciences,400 E Joppa Rd, Baltimore, MD,5000,http://www.gilead.com
+185,General Dynamics,1796 Tsing Tao, Muang Nonthaburi, ,1200,http://www.generaldynamics.com
+186,TJX,1810 Tucker Crt, Mumbai, ,5000,http://www.tjx.com
+188,Nike,Sendlinger Tor 4, Munich, ,2400,http://www.nike.com
+189,World Fuel Services,Theresienstr 15, Munich, ,2400,http://www.wfscorp.com
+191,Mondelez International,1822 Ironweed St, Toronto, ONT,1200,http://www.mondelezinternational.com
+193,Twenty-First Century Fox,Via Notoriosa 1932 Rd, Firenze, ,500,http://www.21cf.com
+194,Deere,Via Notoriosa 1941, Firenze, ,500,http://www.johndeere.com
+209,Time Warner,Via Delle Grazie 11, Tellaro, ,2400,http://www.timewarner.com
+196,DuPont,Via Notoriosa 1943, Firenze, ,2400,http://www.dupont.com
+197,Avnet,Via Luminosa 162, Tellaro, ,700,http://www.avnet.com
+199,Macy?s,Via Di Firenze 231, Tellaro, ,700,http://www.macysinc.com
+201,Travelers Cos.,Via Frenzy 6903, Tellaro, ,3600,http://www.travelers.com
+203,Philip Morris International,Piazza Quattre Stagioni 4, San Giminiano, ,3600,http://www.pmi.com
+205,Tech Data,Via Notoriosa 1932, Tellaro, ,3600,http://www.techdata.com
+211,McDonald?s,2034 Sabrina Rd, Samutprakarn, ,3700,http://www.aboutmcdonalds.com
+213,Sears Holdings,Ruella Delle Spiriti, Milano, ,500,http://www.searsholdings.com
+215,Capital One Financial,Via Delle Capeletti 52, San Giminiano, ,1500,http://www.capitalone.com
+217,USAA,Via Delli Capelli 2, San Giminiano, ,700,http://www.usaa.com
+219,Duke Energy,1593 Silverado St, Bangalore, Kar,5000,http://www.duke-energy.com
+221,Halliburton,1602 Sholay St, Chennai, Tam,1500,http://www.halliburton.com
+224,Arrow Electronics,1607 Sangam Blvd, New Delhi, ,5000,http://www.arrow.com
+1,Raytheon,514 W Superior St, Kokomo, IN,100,http://www.raytheon.com
+2,Plains GP Holdings,2515 Bloyd Ave, Indianapolis, IN,100,http://www.plainsallamerican.com
+3,US Foods Holding,8768 N State Rd 37, Bloomington, IN,100,http://www.usfoods.com
+4,AbbVie,6445 Bay Harbor Ln, Indianapolis, IN,100,http://www.abbvie.com
+5,Centene,4019 W 3Rd St, Bloomington, IN,100,http://www.centene.com
+6,Community Health Systems,1608 Portage Ave, South Bend, IN,100,http://www.chs.net
+7,Alcoa,23943 Us Highway 33, Elkhart, IN,100,http://www.alcoa.com
+8,International Paper,136 E Market St # 800, Indianapolis, IN,100,http://www.internationalpaper.com
+9,Emerson Electric,1905 College St, South Bend, IN,100,http://www.emerson.com
+10,Union Pacific,3512 Rockville Rd # 137C, Indianapolis, IN,200,http://www.up.com
+11,Amgen,1303 E University St, Bloomington, IN,200,http://www.amgen.com
+12,U.S. Bancorp,115 N Weinbach Ave, Evansville, IN,200,http://www.usbank.com
+13,Staples,2067 Rollett Ln, Evansville, IN,200,http://www.staples.com
+14,Danaher,1105 E Allendale Dr, Bloomington, IN,200,http://www.danaher.com
+15,Whirlpool,18305 Van Dyke St, Detroit, MI,200,http://www.whirlpoolcorp.com
+16,Aflac,Lucas Dr Bldg 348, Detroit, MI,200,http://www.aflac.com
+17,AutoNation,1801 Monroe Ave Nw, Grand Rapids, MI,200,http://www.autonation.com
+18,Progressive,4925 Kendrick St Se, Grand Rapids, MI,200,http://www.progressive.com
+19,Abbott Laboratories,3310 Dixie Ct, Saginaw, MI,200,http://www.abbott.com
+20,Dollar General,113 Washington Sq N, Lansing, MI,200,http://www.dollargeneral.com
+21,Tenet Healthcare,2500 S Pennsylvania Ave, Lansing, MI,200,http://www.tenethealth.com
+22,Eli Lilly,3213 S Cedar St, Lansing, MI,200,http://www.lilly.com
+24,Southwest Airlines,6654 W Lafayette St, Detroit, MI,200,http://www.southwest.com
+25,Penske Automotive Group,27 Benton Rd, Saginaw, MI,200,http://www.penskeautomotive.com
+26,ManpowerGroup,8201 Livernois Ave, Detroit, MI,300,http://www.manpowergroup.com
+28,Kohl?s,3100 E Eisenhower Pky # 100, Ann Arbor, MI,300,http://www.kohlscorporation.com
+29,Starbucks,952 Vassar Dr, Kalamazoo, MI,400,http://www.starbucks.com
+30,Paccar,150 W Jefferson Ave # 2500, Detroit, MI,400,http://www.paccar.com
+31,Cummins,40 Pearl St Nw # 1020, Grand Rapids, MI,400,http://www.cummins.com
+33,Altria Group,301 E Genesee Ave, Saginaw, MI,400,http://www.altria.com
+34,Xerox,9936 Dexter Ave, Detroit, MI,400,http://www.xerox.com
+35,Kimberly-Clark,1660 University Ter, Ann Arbor, MI,400,http://www.kimberly-clark.com
+36,Hartford Financial Services Group,15713 N East St, Lansing, MI,400,http://www.thehartford.com
+38,Kraft Heinz,10315 Hickman Rd, Des Moines, IA,500,http://www.kraftheinzcompany.com
+40,Fluor,1928 Sherwood Dr, Council Bluffs, IA,500,http://www.fluor.com
+41,AECOM,2102 E Kimberly Rd, Davenport, IA,500,http://www.aecom.com
+44,Jabil Circuit,221 3Rd Ave Se # 300, Cedar Rapids, IA,500,http://www.jabil.com
+45,CenturyLink,2120 Heights Dr, Eau Claire, WI,500,http://www.centurylink.com
+47,General Mills,6555 W Good Hope Rd, Milwaukee, WI,600,http://www.generalmills.com
+48,Southern,1314 N Stoughton Rd, Madison, WI,600,http://www.southerncompany.com
+50,Thermo Fisher Scientific,6161 N 64Th St, Milwaukee, WI,700,http://www.thermofisher.com
+51,American Electric Power,11016 W Lincoln Ave, Milwaukee, WI,700,http://www.aep.com
+53,NGL Energy Partners,615 N Sherman Ave, Madison, WI,700,http://www.nglenergypartners.com
+54,Bristol-Myers Squibb,512 E Grand Ave, Beloit, WI,700,http://www.bms.com
+56,Nucor,5235 N Ironwood Ln, Milwaukee, WI,700,http://www.nucor.com
+57,PNC Financial Services Group,322 E Michigan St, Milwaukee, WI,700,http://www.pnc.com
+58,Health Net,1400 Bellinger St Fl 4, Eau Claire, WI,700,http://www.healthnet.com
+60,Colgate-Palmolive,808 3Rd St # 100, Wausau, WI,700,http://www.colgatepalmolive.com
+61,Freeport-McMoRan,300 Crooks St, Green Bay, WI,900,http://www.fcx.com
+64,Gap,2122 Campbell Rd, La Crosse, WI,1200,http://www.gapinc.com
+65,Baker Hughes,3324 N Oakland Ave, Milwaukee, WI,1200,http://www.bakerhughes.com
+67,Dollar Tree,1501 Lowry Ave N, Minneapolis, MN,1200,http://www.dollartree.com
+69,Whole Foods Market,4200 Yosemite Ave S, Minneapolis, MN,1200,http://www.wholefoodsmarket.com
+70,PPG Industries,2800 Chicago Ave # 100, Minneapolis, MN,1200,http://www.ppg.com
+72,Icahn Enterprises,314 W Superior St # 1015, Duluth, MN,1200,http://www.ielp.com
+74,Performance Food Group,2720 Brewerton Rd, Syracuse, NY,1200,http://www.pfgc.com
+76,DISH Network,1522 Main St, Niagara Falls, NY,1200,http://www.dish.com
+77,FirstEnergy,49 N Pine Ave, Albany, NY,1200,http://www.firstenergycorp.com
+80,AES,33 Fulton St, Poughkeepsie, NY,1200,http://www.aes.com
+81,CarMax,2360 Maxon Rd, Schenectady, NY,1200,http://www.carmax.com
+84,NRG Energy,500 S Salina St # 500, Syracuse, NY,1200,http://www.nrgenergy.com
+85,Western Digital,33 Pine St, Lockport, NY,1200,http://www.westerndigital.com
+226,Office Depot,1612 Talaivar St, Chennai, Tam,5000,http://www.officedepot.com
+227,Nordstrom,1613 Victoria St, Calcutta, ,5000,http://www.nordstrom.com
+229,Aramark,1615 Crackers Crt, Chennai - India, ,300,http://www.aramark.com
+230,DaVita HealthCare Partners,1616 Mr. India Ln, Bombay - India, Kar,300,http://www.davita.com
+232,WellCare Health Plans,1618 Villains St, New Delhi - India, ,1200,http://www.wellcare.com
+233,CBS,1619 Bowlers Rd, Chandigarh, Har,1200,http://www.cbscorporation.com
+234,Visa,1620 Sixers Crt, Bombay, Kar,5000,http://www.visa.com
+236,Ecolab,1623 Hey Ram St, Chennai - India, ,5000,http://www.ecolab.com
+237,Kellogg,1627 Sowdagar St, New Delhi, ,1900,http://www.kelloggcompany.com
+239,Textron,1632 Splash St, Chandigarh, Har,2500,http://www.textron.com
+240,Loews,1636 Pretty Blvd, Bangalore, Kar,5000,http://www.loews.com
+241,Illinois Tool Works,1646 Brazil Blvd, Chennai, Tam,500,http://www.itw.com
+244,Viacom,1650 Teesri Manjil Crt, Kashmir, ,3700,http://www.viacom.com
+246,Land O?Lakes,1662 Talaivar St, Chennai, Tam,1500,http://www.landolakesinc.com
+248,Devon Energy,Piazza Del Congresso 22, Roma, ,3700,http://www.devonenergy.com
+251,Yum Brands,Ruella Delle Spiriti, Roma, ,500,http://www.yum.com
+252,Texas Instruments,Via Del Disegno 194, Roma, ,500,http://www.ti.com
+253,CDW,Via Delle Capeletti 52, Roma, ,500,http://www.cdw.com
+256,Marsh & McLennan,Via Dolorosa 69, Roma, ,2400,http://www.mmc.com
+257,Chesapeake Energy,Via Notoriosa 1942, Ventimiglia, ,700,http://www.chk.com
+260,Occidental Petroleum,Piazza Cacchiatore 23, Roma, ,700,http://www.oxy.com
+261,Guardian Life Ins. Co. of America,Via Del Disegno 194, San Giminiano, ,600,http://www.guardianlife.com
+264,J.C. Penney,Via Dello Croce 93, San Giminiano, ,400,http://www.jcpenney.com
+265,Consolidated Edison,Ruella Delle Spiriti, San Giminiano, ,400,http://www.conedison.com
+267,Cognizant Technology Solutions,Via Delli Capelli 2, Tellaro, ,400,http://www.cognizant.com
+269,Ameriprise Financial,Harmoniegasse 3, Baden-Daettwil, AG,500,http://www.ameriprise.com
+271,Computer Sciences,Alfred E. Neumann-Weg 3, Baden-Daettwil, AG,500,http://www.csc.com
+272,L Brands,Dr. Herbert Bitto Str 23, Baden-Daettwil, AG,2300,http://www.lb.com
+273,Jacobs Engineering Group,Taefernstr 4, Baden-Daettwil, AG,2300,http://www.jacobs.com
+275,Principal Financial,Helebardenweg 5, Baden-Daettwil, AG,3500,http://www.principal.com
+276,Ross Stores,Zum Freundlichen Nachbarn 5, Baden-Daettwil, AG,3500,http://www.rossstores.com
+277,Bed Bath & Beyond,Ziegenwiese 3, Baden-Daettwil, AG,3500,http://www.bedbathandbeyond.com
+278,CSX,Am Waldrand 5, Baden-Daettwil, AG,3500,http://www.csx.com
+279,Toys ?R? Us,Zur Kantine 9, Baden-Daettwil, AG,1200,http://www.toysrusinc.com
+280,Las Vegas Sands,Grosse Bahnhostrasse 3, Baden-Daettwil, AG,1200,http://www.sands.com
+281,Leucadia National,Paradeplatz 4, Zuerich, ZH,1200,http://www.leucadia.com
+282,Dominion Resources,Badenerstr 1941, Zuerich, ZH,3500,http://www.dom.com
+283,United States Steel,Welschdoerfchen 1941, Chur, ZH,3500,http://www.ussteel.com
+284,L-3 Communications,Le Reduit, Tschiertschen, GR,1400,http://www.l-3com.com
+285,Edison International,Bendlehn, Trogen, SG,1400,http://www.edisoninvestor.com
+286,Entergy,Spisertor 3, St. Gallen, SG,1400,http://www.entergy.com
+287,ADP,Langstr 14, Zuerich, ZH,700,http://www.adp.com
+288,First Data,Roessligasse 4, Zurich, ZH,700,http://www.firstdata.com
+289,BlackRock,Zum Froehlichen Schweizer 3, Zurich, ZH,5000,http://www.blackrock.com
+290,WestRock,Chrottenweg, Bern, BE,5000,http://www.westrock.com
+291,Voya Financial,Bruppacher Str 3, Baden-Daettwil, AG,5000,http://www.voya.com
+292,Sherwin-Williams,Limmatquai, Zuerich, ZH,1800,http://www.sherwin.com
+293,Hilton Worldwide Holdings,Dreikoenigsstr 3, Zurich, ZH,1800,http://www.hiltonworldwide.com
+295,R.R. Donnelley & Sons,Kreuzstr 32, Zurich, ZH,2300,http://www.rrdonnelley.com
+296,Stanley Black & Decker,1539 Stripes Rd, Baden-Daettwil, AG,2300,http://www.stanleyblackanddecker.com
+299,Murphy USA,1593 Silverado St, Bangalore, Kar,1400,http://corporate.murphyusa.com
+300,CBRE Group,1596 Commando Blvd, Bangalore, Kar,1200,http://www.cbre.com
+302,D.R. Horton,1599 Legend Rd, Bangalore, Kar,5000,http://www.drhorton.com
+303,Estee Lauder,1600 Target Crt, Bangalore, Kar,5000,http://www.elcompanies.com
+304,Praxair,1603 Rebel St, Bangalore, Kar,500,http://www.praxair.com
+305,Biogen,1604 Volunteers Rd, Bangalore, Kar,500,http://www.biogen.com
+307,State Street Corp.,1607 Abwdrts St, Bangalore, Kar,3500,http://www.statestreet.com
+308,Unum Group,1608 Amadeus St, Bangalore, Kar,3500,http://www.unum.com
+309,Reynolds American,1610 Betrayal Crt, Bangalore, Kar,5000,http://www.reynoldsamerican.com
+311,Group 1 Automotive,1614 Crackers Rd, Bangalore - India, Kar,2300,http://www.group1auto.com
+312,Henry Schein,1615 Crackers Crt, Bangalore - India, Kar,5000,http://www.henryschein.com
+315,Norfolk Southern,1618 Footloose St, Bangalore - India, Kar,900,http://www.nscorp.com
+316,Reinsurance Group of America,1619 Footloose Rd, Bangalore - India, Kar,900,http://www.rgare.com
+317,Public Service Enterprise Group,1621 Gargon! Blvd, Bangalore - India, Kar,600,http://www.pseg.com
+23,DTE Energy,8110 Jackson Rd, Ann Arbor, MI,200,http://www.dteenergy.com
+27,Assurant,101 N Falahee Rd, Jackson, MI,300,http://www.assurant.com
+37,Huntsman,555 John F Kennedy Rd, Dubuque, IA,500,http://www.huntsman.com
+42,Becton Dickinson,1691 Asbury Rd, Dubuque, IA,500,http://www.bd.com
+68,AutoZone,113 N 1St St, Minneapolis, MN,1200,http://www.autozone.com
+73,Navistar International,1409 Willow St # 600, Minneapolis, MN,1200,http://www.navistar.com
+82,Discover Financial Services,85 High St, Buffalo, NY,1200,http://www.discoverfinancial.com
+87,Liberty Interactive,2979 Hamburg St, Schenectady, NY,1200,http://www.libertyinteractive.com
+116,Baxter International,810 Race St, Philadelphia, PA,1900,http://www.baxter.com
+120,Stryker,135 S 18Th St # 1, Philadelphia, PA,2300,http://www.stryker.com
+130,Western Refining,5565 Baynton St, Philadelphia, PA,2400,http://www.wnr.com
+154,Universal Health Services,1751 Madison Ave, Council Bluffs, IA,3500,http://www.uhsinc.com
+158,Owens & Minor,310 Broadway St, Alexandria, MN,3600,http://www.owens-minor.com
+168,Advance Auto Parts,2674 Collingwood St, Detroit, MI,3700,http://www.advanceautoparts.com
+172,MasterCard,660 Woodward Ave # 2290, Detroit, MI,3700,http://www.mastercard.com
+198,Eastman Chemical,2017 Convoy St, Tokyo, ,2400,http://www.eastman.com
+202,Sonic Automotive,Piazza Del Congresso 22, San Giminiano, ,3600,http://www.sonicautomotive.com
+210,CST Brands,2033 Spartacus St, Samutprakarn, ,3700,http://www.cstbrands.com
+214,eBay,Via Del Disegno 194, Milano, ,1500,http://www.ebay.com
+222,GameStop,1605 Bazigar Crt, Pune, ,5000,http://www.gamestopcorp.com
+225,Reliance Steel & Aluminum,1609 Pakija Rd, New Delhi, ,3700,http://www.rsac.com
+247,Celgene,1667 2010 St, Batavia, Ker,500,http://www.celgene.com
+250,Genworth Financial,Piazza Svizzera, Roma, ,2400,http://www.genworth.com
+258,Priceline Group,Via Notoriosa 1943, Ventimiglia, ,700,http://www.pricelinegroup.com
+262,MGM Resorts International,Piazza Svizzera, San Giminiano, ,100,http://www.mgmresorts.com
+270,Fidelity National Financial,Sonnenberg 4, Baden-Daettwil, AG,500,http://www.fnf.com
+274,Republic Services,Kreuzritterplatz 5, Baden-Daettwil, AG,3500,http://www.republicservices.com
+298,Peter Kiewit Sons?,1592 Silverado St, Bangalore, Kar,1400,http://www.kiewit.com
+306,Mosaic,1606 Volunteers Blvd, Bangalore, Kar,3500,http://www.mosaicco.com
+310,Core-Mark Holding,1611 Carmen Blvd, Bangalore, Kar,5000,http://www.core-mark.com
+318,Cameron International,1667 2010 St, Batavia, IL,200,http://www.c-a-m.com
+297,Xcel Energy,1540 Stripes Crt, Baden-Daettwil, AG,400,http://www.xcelenergy.com
+126,State Farm Insurance Cos.,223 4Th Ave # 1100, Pittsburgh, PA,2300,http://www.statefarm.com
+131,Johnson & Johnson,5640 Fishers Ln, Rockville, MD,2400,http://www.jnj.com
+134,Marathon Petroleum,4301 Ashland Ave, Baltimore, MD,2400,http://www.marathonpetroleum.com
+138,Aetna,200 E Fort Ave, Baltimore, MD,2400,http://www.aetna.com
+141,AIG,12817 Coastal Hwy, Ocean City, MD,2400,http://www.aig.com
+143,Intel,9435 Washington Blvd N # M, Laurel, MD,2400,http://www.intel.com
+147,Pfizer,206 S Broadway # 707, Rochester, MN,2400,http://www.pfizer.com
+150,FedEx,2215 Oak Industrial Dr Ne, Grand Rapids, MI,2400,http://www.fedex.com
+153,New York Life Insurance,215 4Th Ave Se, Cedar Rapids, IA,2500,http://www.newyorklife.com
+157,Ingram Micro,4811 S 76Th St # 205, Milwaukee, WI,3600,http://www.ingrammicro.com
+161,American Airlines Group,800 Carter St, Rochester, NY,3600,http://www.aa.com
+165,Johnson Controls,6Th And Master St, Philadelphia, PA,3600,http://www.johnsoncontrols.com
+170,Goldman Sachs Group,23985 Bedford Rd N, Battle Creek, MI,3700,http://www.gs.com
+174,Oracle,701 Seneca St, Buffalo, NY,5000,http://www.oracle.com

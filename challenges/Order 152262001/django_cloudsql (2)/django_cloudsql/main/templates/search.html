@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+ <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+        	<h1>Search results</h1>
+			<p>Items containing '{{query_string}}'</p>
+			{% if query_string == 'Null' %}<p>Please enter a term to query</p> {% endif %}
+			{{items.lenght}} 
+			{% for i in items %}
+			    <div>
+			        <h2 class="page-title">{{ i.title }}</h2></a>
+			        <div class="item">
+			            {{ i.description }}
+			        </div>
+			    </div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+{% endblock %}

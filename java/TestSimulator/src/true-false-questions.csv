@@ -1,0 +1,16 @@
+TF001,8,Java allows an instance of an abstract class to be instantiated.,FALSE
+TF002,8,Downcasting should be used only in situations where it makes sense.,TRUE
+TF003,9,The throw operator causes a change in the flow of control.,TRUE
+TF004,9,When an exception is thrown the code in the surrounding try block continues executing and then the catch block begins execution.,FALSE
+TF005,10,A stream is an object that allows for the flow of data between your program and some I/O device or some file.,TRUE
+TF006,10,A full path name gives a complete path name starting from the directory the program is in.,FALSE
+TF007,11,When a recursive call is encountered computation is temporarily suspended; all of the information needed to continue the computation is saved and the recursive call is evaluated.,TRUE
+TF008,11,The binary search algorithm is extremely slow compared to an algorithm that simply tries all array elements in order.,FALSE
+TF009,13,A class may only implement one interface.,FALSE
+TF010,13,An interface is a type.,TRUE
+TF011,14,An ArrayList object has a fixed size.,FALSE
+TF012,14,ArrayList objects do not have the array square-bracket notation.,TRUE
+TF013,15,A linked data structure contains nodes and links.,TRUE
+TF014,15,When using a linked list you do not need to know when the end of the list has been reached.,FALSE
+TF015,16,A Java collection is any class that implements the Collection interface.,TRUE
+TF016,16,<T> is a wildcard used to specify a wide range of parameters.,FALSE

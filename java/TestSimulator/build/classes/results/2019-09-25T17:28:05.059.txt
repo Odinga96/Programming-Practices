@@ -1,0 +1,5 @@
+TF015,16,true,false
+MC013,15,b,b
+MC007,11,d,b
+TF011,14,false,false
+MC015,16,d,b

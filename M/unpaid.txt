@@ -1,0 +1,12 @@
+﻿Name                       Order No          price           Date submitted
+
+ComputerBuilder              349646           1600              07/09/2019
+                           150888498          2000              25/09/2019
+                            151272463         2500              02/10/2019
+DsProject                                     2000              27/09/2019
+MVC Model                                     3000  
+            
+SubTotal                                     11000
+Areas                                         9000               
+Total                                        20000     
+

@@ -1,0 +1,137 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Unit 2</title>
+
+<script>
+		function computeLoan() {
+
+  var amount = parseInt(document.getElementById("amount").value);
+
+  var term = parseInt(document.getElementById("years").value);
+  var frequency = document.getElementById("paymentTerm").value;
+
+	var interest = calculateInterest(amount);
+
+  var finalAmmount = calculateMortgage(amount, interest, term, frequency);
+
+document.getElementById("outMonthly").innerText = "$" + finalAmmount;
+document.getElementById("paymentTermOut").innerText = frequency;
+
+};
+
+
+
+
+function calculateMortgage(p, r, n, f) {
+
+  r = percentToDecimal(r, f); //convert percentage to a decimal
+  n = yearsToMonths(n, f); //convert years to months
+
+  var pmt = (r * p) / (1 - (Math.pow((1 + r), (-n)))); //c=  ((p * r) * Math.pow((1 + r), n)) / (Math.pow(1 + r), n) - 1
+  return parseFloat(pmt.toFixed(2));
+}
+
+//Change the percent entered to a decimal
+function percentToDecimal(percent, frequency) {
+
+	if (frequency == "month"){
+		percent = (percent / 12) /100;
+	}
+
+	else if (frequency == "week") {
+	  percent = (percent / 52) / 100;
+ }
+	else if (frequency == "fortnight") {
+	  percent = (percent / 26) / 100;
+ }
+	else if (frequency == "year") {
+	  percent = (percent / 1) / 100;
+ }
+ else if (frequency == "quarter") {
+	 percent = (percent / 4) / 100;
+ }
+
+	return percent;
+}
+
+
+function yearsToMonths(year, frequency) {
+  //return year * 12;
+
+  if (frequency == "week") {
+    return year * 52;
+  }
+  if (frequency == "fortnight") {
+    return year * 26;
+  }
+  if (frequency == "quarter") {
+    return year * 4;
+  }
+	if (frequency == "year") {
+    return year * 1;
+  }
+  return year * 12;
+}
+
+
+function calculateInterest(amount) {
+  var interest = 5.4;
+
+  //If loan amount is between $200,000 and $250,000, the interest rate will be 5.09%
+  if (amount >= 200000 && amount < 250000) {
+    interest = 5.09;
+  }
+
+  //If loan amount is between $250,000 and $500,000, the interest rate will be 4.84%
+  if (amount > 250000 && amount < 500000) {
+    interest = 4.84;
+  }
+
+  //If loan amount is between $500,000 and $750,000, the interest rate will be 4.79%
+  if (amount > 500000 && amount < 750000) {
+    interest = 4.79;
+  }
+
+  //If loan amount is greater than $750,000, the interest rate will be 4.50%
+  if (amount > 750000) {
+    interest = 4.50;
+  }
+
+  return interest;
+}
+
+function postPayments(payment) {
+  var htmlEl = document.getElementById("outMonthly");
+  htmlEl.innerText = "$" + payment;
+
+  // document.getElementById("outMonthly").innerText = payment;
+
+  return;
+}
+
+	</script>
+
+</head>
+
+<body>
+	<h1>Mortgage Calculator</h1>
+    <p><b>Number of Years</b>: <input type="number" id="years" value="30" onchange="computeLoan()"></p>
+
+    <p><b>Loan Amount</b>: <input type="number" id="amount" value="200000" onchange="computeLoan()"></p>
+
+    <p><b>Payment Frequency :</b>
+      <select id="paymentTerm" onchange="computeLoan()">
+    <option value="week">Weekly</option>
+    <option value="fortnight">Fortnightly</option>
+    <option value="month">Monthly</option>
+    <option value="quarter">Quarterly</option>
+    <option value="year">Yearly</option>
+  </select>
+    </p>
+
+	 <h3>The repayment amount is <span id="outMonthly"></span> each <span
+	id="paymentTermOut"></span></h3>
+</body>
+</html>

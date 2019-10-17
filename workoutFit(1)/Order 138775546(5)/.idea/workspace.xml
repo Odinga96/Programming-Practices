@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64adfcff-e064-4c0b-8c8b-c1e50e87357f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Order 138775546/src/main/main/GamePanel.java" />
+        <option value="$PROJECT_DIR$/Order 138775546/src/main/controllers/level4/GamePanel.java" />
+        <option value="$PROJECT_DIR$/Order 138775546/src/main/level4/main/GamePanel.java" />
+        <option value="$PROJECT_DIR$/Order 138775546/src/main/level4/GamePanel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1143" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556509769064" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workoutFit(1)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="javac GamePanel.java" />
+      <command value="java GamePanel" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64adfcff-e064-4c0b-8c8b-c1e50e87357f" name="Default Changelist" comment="" />
+      <created>1556487095804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556487095804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21557271" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5282258" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/main/level6/TheHord.java" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/main/level3/SpaceShip.java" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/main/level2/Projectile.java" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/main/level1/Movable.java" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/main/level3/Invader.java" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/resources/invader1.gif" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/resources/ufo4.gif" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/resources/ufo3.gif" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/resources/ufo2.gif" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/resources/ufo0.gif" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/Order 138775546(2).iml" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/resources/invader3.gif" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/out/production/Order 138775546(2)/main/main/GamePanel.class" />
+    <entry file="file://$PROJECT_DIR$/Order 138775546/src/main/level4/GamePanel.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

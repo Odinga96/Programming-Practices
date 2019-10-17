@@ -1,0 +1,15 @@
+Welcome to the Country-Capital Quiz
+Play?	yes
+
+
+What is the capital of South Korea ?
+seoul
+Correct.  Play?	yes
+
+What is the capital of Cote d'Ivoire ?
+f
+Incorrect. The correct answer is  Yamoussoukro  Play?	no
+
+Game over.
+Game Stats:
+Questions played: 2; Correct answers: 1; Score: 50.00%

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="hamcrest-core-1.3">
+    <archive path="/root/NetBeansProjects/QueuADT/src/tests/hamcrest-core-1.3.jar" />
+    <archive path="/root/NetBeansProjects/QueuADT/src/tests/junit-4.13-beta-2.jar" />
+  </library>
+</eclipse-userlibraries>
+

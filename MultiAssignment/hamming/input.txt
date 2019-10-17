@@ -1,0 +1,23 @@
+Write a program to simulate the motion of n particles in the plane, mutually affected by gravitational forces, and animate the results. Such methods are widely used in cosmology, semiconductors, and fluid dynamics to study complex physical systems. Scientists also apply the same techniques to other pairwise interactions including Coulombic, Biot–Savart, and van der Waals.
+
+Context. In 1687, Isaac Newton formulated the principles governing the motion of two particles under the influence of their mutual gravitational attraction in his famous Principia. However, Newton was unable to solve the problem for three particles. Indeed, in general, solutions to systems of three or more particles must be approximated via numerical simulations.
+
+Program specification. Write a program NBody.java that:
+
+    Takes two double command-line arguments—the duration of the simulation (Τ) and the simulation time increment (Δt).
+
+    Reads in the details of the universe to be simulated from standard input using StdIn, using several parallel arrays to store the data.
+
+    Simulates the universe, starting at time t = 0.0, and continuing in Δt increments as long as t < Τ, using the leapfrog scheme described below.
+
+    Animates the results to standard drawing using StdDraw.
+
+    Prints the state of the universe at the end of the simulation (in the same format as the input file) to standard output using StdOut. 
+
+Input format. The input format is a text file that contains the information for a particular universe (in SI units).
+
+    The first value is an integer n which represents the number of particles. The second value is a real number radius which represents the radius of the universe; it is used to determine the scaling of the drawing window (which displays particles with x- and y-coordinates between −radius and +radius).
+
+    Next, there are n lines (one for each particle), with each line containing 6 values. The first two values are the x- and y-coordinates of the initial position; the next pair of values are the x- and y-components of the initial velocity; the fifth value is the mass; the last value is a String that is the name of an image file used to display the particle.
+
+    The remainder of the file (optionally) contains a description of the universe, which your program must ignore. 

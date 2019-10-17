@@ -1,0 +1,35 @@
+
+                Date                        06/05/2019
+Name                                  Order No                        price           Date submitted
+Ordering into files                 138775546(4)/(5)                 1500             29/04/2019
+Multi granular locks                135025606                        5000             01/05/2019
+J's spring animation                139434842(1)(1)                  3000             29/04/2019
+Work Outfit                         140128762                        2500             30/04/2019
+data analysis and serialization     140201122                        2000             02/05/2019
+                                                                    14000
+
+
+        Date                        06/06/2019
+
+black jack             139887262              3000             05/05/2019
+Stocks                 140113958              2800             06/05/2019
+Movies                 39829022               2500             09/05/2019
+Final Year Project                            2500             11/05/2019
+Week 8 lab concerts           140605630       4000             12/05/2019
+Car dealer                    141020622       1500             17/05/2019
+Bank UI                       141055426       1800             19/05/2019
+Data Structure and algorithm  141065178        800             19/05/2019
+Asteroids                     141032594       2000             18/05/2019
+Hamming code                  141032594       2000             18/05/2019
+
+
+
+DNA strand                    141032594       2000               20/05/2019
+Game of Sticks                141032594       2000               20/05/2019
+Haskel(Mondrian art)          141032594       2000               22/05/2018
+4U Coffeee Buzz               141286966       2500               22/05/2019
+BT peripheral kiosk           141597582       2500               28/05/2019
+Packet visualizer             141544766       2500               30/05/2019
+Sports Concussion 1           141601814       2500               28/05/2019
+Sports Concussion 2           141601814       1500               28/05/2019
+                                             40400

@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: Julia.gast.jt@gmail.com
+Date: Sun, 18 Aug 2019 13:51:01 -0000
+Message-ID: <156613626129.12736.16502166408231988526@DESKTOP-6G5K35B>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/accounts/reset/MQ/58z-52467632cb72e1843bf5/
+
+Your username, in case you've forgotten: julia
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------

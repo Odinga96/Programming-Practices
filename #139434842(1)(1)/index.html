@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>
+body {
+    margin: 0;
+    background: #49e;
+}
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    /* float: right; */
+    margin-right: 300px;
+
+}
+label{
+  width: 250px;
+  float: left;
+  text-align: left;
+}
+label, input{
+  margin: 5px;
+}
+</style>
+</head>
+<body  onload="startGame()" >
+      <div class="wrappper" style="width: 500px;">
+      			<center>
+      			<form onsubmit="return false">
+
+      				<label>Weight of The first Ball :</label><input type="number" id="b1w" placeholder="Ball One weight"><br><br>
+      				<label>Weight of The Second Ball :</label><input type="number" id="b2w" placeholder="Ball Two weight"><br><br>
+      				<label>Spring Stifness :</label><input type="number" id="k"><br><br>
+      				<center><button id="btnApply" onclick="">Apply</button></center>
+      			</form>
+      		</center>
+          <!-- <div id="gamePane">
+
+          </div> -->
+
+
+        </div>
+<script>
+
+
+        var kIn = document.getElementById('k');
+        var b1wIn = document.getElementById('b1w');
+        var b2wIn = document.getElementById('b2w');
+
+        kIn.value =5;
+        b1wIn.value = 200;
+        b2wIn.value = 800;
+
+
+      var apply = document.getElementById('btnApply');
+
+
+      var f1;//Force on ball 1
+      var f2;//Force on ball 2
+
+      var e1;//Extension on spring 1
+      var e2;//Extension on spring 2
+
+      var width=500;
+      var height=500;
+
+
+      var k1=kIn.value;
+      k1=Number(k1);
+      var b1w1=b1wIn.value;
+      b1w1=Number(b1w1);
+      var b2w1 = b2wIn.value;
+      b2w1=Number(b2w1);
+
+       f1 = b1w1+b2w1;//Force on ball 1
+       f2 = b2w1;//Force on ball 2
+
+       e1 = f1/k1;//Extension on spring 1
+       e2 = f2/k1;//Extension on spring 2
+       height=e1+e2+50;
+       var totalE=e1+e2;
+
+
+      apply.onclick=function(e){
+      	var k=kIn.value;
+      	k=Number(k);
+      	var b1w=b1wIn.value;
+      	b1w=Number(b1w);
+      	var b2w = b2wIn.value;
+      	b2w=Number(b2w);
+
+      	console.log(k);
+      	console.log(b1w);
+      	console.log(b2w);
+
+         f1 = b1w+b2w;//Force on ball 1
+         f2 = b2w;//Force on ball 2
+
+         e1 = f1/k;//Extension on spring 1
+         e2 = f2/k;//Extension on spring 2
+
+         totalE=e1+e2;
+         height=totalE+50;
+             startGame();
+      }
+
+
+     var ball1;
+     var spring;
+     var ball2;
+     var ball3;
+
+
+
+
+
+
+
+
+  function startGame() {
+
+      ball2  = new component(30, 30, "red", width/2, totalE, "ball",0);
+     spring2 = new component(30, 30, "red", width/2, totalE, "spring", e1+30);
+
+
+     ball1 = new component(30, 30, "red", width/2,e1, "ball",0);
+     spring = new component(30, 30, "red", width/2, e1, "spring", 0);
+
+
+     myGameArea.start();
+}
+
+
+var myGameArea = {
+    canvas :document.createElement("canvas"),
+
+    start : function() {
+        this.canvas.width = width;
+        this.canvas.height = height;
+
+        this.context = this.canvas.getContext("2d");
+
+        document.body.insertBefore(this.canvas, document.body.childNodes[0]);
+        // document.getElementById('gamePane').appendChild(this.canvas);
+        this.interval = setInterval(updateGameArea, 100);
+
+        window.addEventListener('mousedown', function (e) {
+            myGameArea.x = e.pageX;
+            myGameArea.y = e.pageY;
+        })
+    },
+    clear : function(){
+        this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+    }
+
+}
+
+      function component(width, height, color, x, y, diagram, springY) {
+          this.width = width;
+          this.height = height;
+          this.speedX = 0;
+          this.speedY = 0;
+          this.x = x;
+          this.y = y;
+
+          //variables for bouncing
+          this.gravity = 0.03;
+          this.gravitySpeed = 0;
+          this.bounce = 0.9;
+
+        this.update = function() {
+        ctx = myGameArea.context;
+
+        // ctx.beginPath();
+        // ctx.moveTo(250, 0);
+        // ctx.lineTo(this.x, this.y);
+        // ctx.stroke();
+
+
+        if (diagram=="ball") {
+
+          var grd = ctx.createRadialGradient(75, 50, 5, 90, 60, 100);
+          grd.addColorStop(0, "red");
+          grd.addColorStop(1, "white");
+
+          ctx.beginPath();
+          ctx.arc(this.x, this.y, 30, 0, 2 * Math.PI, false);
+          ctx.fillStyle = 'red';
+          ctx.fill();
+          ctx.lineWidth = 5;
+          ctx.strokeStyle = '#003300';
+          ctx.stroke();
+        }
+
+        if (diagram=="spring") {
+          ctx.beginPath();
+          ctx.moveTo(250, springY);
+          ctx.lineTo(this.x, this.y-30);
+          ctx.stroke();
+        }
+    }
+
+    this.clicked = function() {
+        var myleft = this.x;
+        var myright = this.x + (this.width);
+        var mytop = this.y;
+        var mybottom = this.y + (this.height);
+
+        var clicked = true;
+        if ((mybottom < myGameArea.y) || (mytop > myGameArea.y) || (myright < myGameArea.x) || (myleft > myGameArea.x)) {
+            clicked = false;
+        }
+
+        return clicked;
+    }
+}
+
+      var velocity  = 5;
+      var velocity2 = 5;
+
+  function move(yI,yF,Circle,vel){
+
+        Circle.y += velocity
+        if ((Circle.y+30)>yF || (Circle.y)<yI){ velocity *=-1;}
+  }
+
+  function move2(yI,yF,Circle,vel){
+
+        Circle.y += velocity2
+        if ((Circle.y+50)>yF || (Circle.y)<yI){ velocity2 *=-1;}
+
+  }
+
+    var count1=true;
+    var count2=true;
+
+    var p1
+    var p2
+
+   var h;
+   var ext1;
+   var ext2;
+   var oscillation1=0;
+   var oscillation2=0;
+
+function updateGameArea() {
+    myGameArea.clear();
+    if (myGameArea.x && myGameArea.y) {
+
+
+        if (ball1.clicked()) {
+
+
+           if(count1)
+           f1 +=100//Force on ball 1
+          // f2 = b2w;//Force on ball 2
+
+          var k=kIn.value;
+          k=Number(k);
+
+          e1 = f1/k;//Extension on spring 1
+          e2 = f2/k;//Extension on spring 2
+
+          totalE=e1+e2;
+          height=totalE+50;
+
+            // startGame();
+           // alert(f1
+
+                if (count1) {
+                  p1=ball1.y;
+                  p2=ball2.y;
+                  count1=false;
+                  h=height,
+                  ext1=e1;}
+
+
+               // alert(e1);
+               if(oscillation1<500){
+                 setInterval(move(p1,e1,ball1, "V1"), 20);
+                  setInterval(move2(p2,h,ball2,"V2"),20);
+                  oscillation1+=10;
+                }
+              }
+
+        if (ball2.clicked()) {
+
+                if(count2)
+                {
+                  f1 +=100;//Force on ball 1
+                  f2 += 100;//Force on ball 2
+               }
+
+                    var k=kIn.value;
+                    k=Number(k);
+
+                    e1 = f1/k;//Extension on spring 1
+                    e2 = f2/k;//Extension on spring 2
+
+                    totalE=e1+e2;
+                    height=totalE+50;
+
+                      // startGame();
+                     // alert(f1
+
+                  if (count2) {
+                    p1=ball1.y;
+                    p2=ball2.y;
+                    count2=false;
+                    h=height,
+                    ext1=e1;
+                  }
+                         // alert(e1);
+
+              if(oscillation1<500){
+                setInterval(move(p1,e1,ball1, "V1"), 20);
+                setInterval(move2(p2,h,ball2,"V2"),20);
+                 oscillation1+=10;
+               }
+
+            }
+    }
+    ball1.update();
+    spring.update();
+
+    ball2.update();
+    spring2.update();
+
+    // oscillation1=0;
+  }
+
+
+
+</script>
+
+</body>
+</html>

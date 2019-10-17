@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+  <fieldset style="width: 500px">
+    <legend>Morgage calculator</legend>
+    <label>Number of years</label>             <input id="years" type="text" name="" value=""><br><br>
+    <label for="">Loan amount</label>          <input id="ammount" type="number" name="" value=""><br><br>
+    <label for="">Payment frequency</label>
+    <select class="" name="" id="option" onchange="computeRepaymentAmount()" value=''>
+      <option value="" disabled selected>--- select one ---</option>
+      <option value="1">yearly</option>
+      <option value="4">quarterly</option>
+      <option value="12">monthly</option>
+      <option value="52">weekly</option>
+      <option value="26">fortnightly</option>
+    </select> <br><br><br>
+
+    <p id="message"></p>
+  </fieldset>
+  </body>
+  <script src="morgage.js"></script>
+</html>

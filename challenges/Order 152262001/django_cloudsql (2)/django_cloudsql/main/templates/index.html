@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<title>Home</title>
+{% include 'carousel.html' %}
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<h1>We are here for your dream</h1>
+			<p>Even though using "lorem ipsum" often arouses curiosity due to its resemblance to classical Latin, it is not intended to have meaning. Where text is visible in a document, people tend to focus on the textual content rather than upon overall presentation, so publishers use lorem ipsum when displaying a typeface or design in order to direct the focus to presentation. "Lorem ipsum" also approximates a typical distribution of spaces in English.
+
+			The most common lorem ipsum text reads as follows: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+			The text is derived from Cicero's De Finibus Bonorum et Malorum (On the Ends of Goods and Evils, or alternatively [About] The Purposes of Good and Evil ). The original passage began: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit (Translation: "Neither is there anyone who loves grief itself since it is grief and thus wants to obtain it"). It is not known exactly when the text acquired its current standard form; it may have been as late as the 1960s. The passage was discovered by Richard McClintock, a Latin scholar who is the publications director at Hampden-Sydney College in Virginia, by searching for citings of the rarely used word 'consectetur' in classical literature.</p>
+		</div>
+	</div>	
+<div class="row"> 
+	<img class="img-fluid" style="min-width:100%; max-height:400px;min-height:400px; !important;" src="{% static 'plan.jpg' %}" alt="">
+</div>
+<div class="row">
+	<h1>Last publication about our travel offering</h1>	
+</div>	
+{% for article in articles %}
+<div class="row">
+  	<div class="col">
+		<h2>{{article.title}}</h2>	
+		<div class="fakeimg text-center">Fake Image</div>
+		<p>{{article.text}}</p>
+	</div>	
+</div>
+{% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,36 @@
+Sep 21, 2017
+Lunch
+4.51
+Sep 21, 2017
+Gas
+25.00
+Sep 21, 2017
+Movies
+36.36
+Sep 21, 2017
+Groceries
+22.55
+Sep 24, 2017
+Groceries
+72.58
+Sep 24, 2017
+Breakfast
+11.48
+Sep 24, 2017
+Tennis
+15.00
+Sep 24, 2017
+Hair Salon
+34.50
+Sep 25, 2017
+CreditCard
+245.00
+Sep 27, 2017
+CarRental
+360.01
+Sep 27, 2017
+Pizza
+11.50
+Sep 28, 2017
+Gas
+81.13

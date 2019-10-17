@@ -1,0 +1,9 @@
+Django
+# mysqlclient==1.4.1  # Uncomment this line if using MySQL
+wheel==0.32.3
+gunicorn==19.9.0
+psycopg2-binary  # Comment this line out if using MySQL
+Pillow
+django-widget-tweaks
+django-crispy-forms
+social-auth-app-django

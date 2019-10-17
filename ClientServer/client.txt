@@ -1,0 +1,9 @@
+#  clientName;
+#  clientAddress;
+#  clientCity;
+#  clientEstate;
+#  clientZipCode;
+#  clientID;
+
+David James,67 street,California, Ewoli Estate, 456, 1
+David James,67 street,California, Ewoli Estate, 45, 3

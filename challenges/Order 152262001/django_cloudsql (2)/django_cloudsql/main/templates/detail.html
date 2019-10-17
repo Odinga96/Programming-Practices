@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% load my_tags %}
+{% block content %}
+<div class="container">
+    <div class="col">
+			{% for i in obj %}
+			<div class="row">
+				<ul>
+			{% for key, val in i|get_fields %}
+			  <li>{{ key }}: {{ val }}</li>
+			{% endfor %}
+			</ul>
+			</div>
+			{% endfor %}
+			</div>
+</div>
+{% endblock %}

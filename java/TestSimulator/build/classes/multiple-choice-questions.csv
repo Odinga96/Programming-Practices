@@ -1,0 +1,16 @@
+MC001,8,A class that has at least one abstract method is called a:,concrete class,encapsulated class,abstract class,private class,c
+MC002,8,A class with no abstract methods is called a:,concrete class,encapsulated class,abstract class,private class,a
+MC003,9,Try blocks contain code that could possibly:,handle an exception,throw an exception,catch an exception,display an exception,b
+MC004,9,All exceptions are descendants of the class:,Throwable,Catchable,Tryable,Blockable,a
+MC005,10,When you open a text file in Java you should account for a possible:,FileNotFoundException,FileFullException,FileNotReadyException,All of the other options,a
+MC006,10,The stream that is automatically available to your Java code is:,System.out,System.in,System.err,All of the other options,d
+MC007,11,A recursive method is one that:,Returns a value,Initializes a set of variables,Returns no value,Invokes itself,d
+MC008,11,A recursive solution can be preferable to an iterative solution because:,recursive method calls are faster than iterative looping,recursive solutions may be easier to understand than iterative ones,recursion uses less memory than iteration,iteration should be avoided.,b
+MC009,13,A Java interface is an example of:,encapsulation,abstraction,polymorphism,All of the other options,b
+MC010,13,A class that uses an interface must use the keyword:,Extends,Inherits,Super,Implements,d
+MC011,14,The ArrayList class in Java comes from the package:,java.awt,java.io,java.util,java.container,c
+MC012,14,Placing an element in an ArrayList for the first time uses the method:,put(),set(),add(),place(),c
+MC013,15,Having the head instance variable of a linked list set to null means the list is:,full,empty,lost,None of the other options,b
+MC014,15,A common exception that occurs when using linked lists is the:,NodeOutOfBoundsException,NodeEmptyException,NullPointerException,NullNodeOccurredException,c
+MC015,16,The primary interface/interfaces for a collection class is/are:,Collection<T>,Set<T>,List<T>,All of the other options,d
+MC016,16,The method contains(Object o) of the ArrayList class returns a value of type:,int,char,byte,boolean,d

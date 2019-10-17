@@ -1,0 +1,490 @@
+/*Body Tags*/
+h1 {
+  color: #40c4d6;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: 'Patua One', cursive;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+p {
+  font-family: 'Patua One', cursive;
+  font-weight: bold;
+  text-align: center;
+  width: 300px;
+  padding: 5px;
+  margin: 15px 0 0 550px;
+}
+a {
+  color: #000000;
+  font-size: 17px;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: 'Patua One', cursive;
+}
+a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+footer {
+  background-color: #383838;
+  background-blend-mode: lighten;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 150px;
+  width: 100%;
+}
+footer .contact {
+  font-family: 'Patua One', cursive;
+  position: absolute;
+  left: -35px;
+  bottom: 30px;
+  text-align: left;
+}
+footer .contact h3 {
+  font-family: 'Patua One', cursive;
+  color: #40c4d6;
+  position: absolute;
+  left: 40px;
+  bottom: 70px;
+  text-align: left;
+}
+footer .contact li {
+  color: #c4c4c4;
+  font-weight: bold;
+  font-size: 13px;
+  list-style: none;
+}
+footer .links1 {
+  position: absolute;
+  left: 20%;
+  bottom: 30px;
+}
+footer .links1 h3 {
+  font-family: 'Patua One', cursive;
+  color: #40c4d6;
+  position: absolute;
+  left: 40px;
+  bottom: 70px;
+  text-align: left;
+}
+footer .links1 li {
+  list-style: none;
+}
+footer .links1 li a {
+  text-decoration: none;
+  font-size: 13px;
+  color: #c4c4c4;
+  left: 10px;
+  bottom: -10px;
+  list-style: none;
+}
+footer .links1 li a:hover {
+  color: #ffffff;
+}
+footer .links2 {
+  position: absolute;
+  left: 32%;
+  bottom: 30px;
+}
+footer .links2 li {
+  list-style: none;
+}
+footer .links2 li a {
+  text-decoration: none;
+  font-size: 13px;
+  color: #c4c4c4;
+  left: 10px;
+  bottom: -10px;
+  list-style: none;
+}
+footer .links2 li a:hover {
+  color: #ffffff;
+}
+footer .social {
+  position: absolute;
+  left: 50%;
+  bottom: 40px;
+}
+footer .social h3 {
+  font-family: 'Patua One', cursive;
+  color: #40c4d6;
+  left: 40px;
+  bottom: 70px;
+  text-align: left;
+}
+footer .social li {
+  right: 50px;
+  bottom: 10px;
+  list-style: none;
+}
+footer .social .img-facebook {
+  float: left;
+  width: 30px;
+  height: 30px;
+}
+footer .social .img-youtube {
+  float: right;
+  width: 30px;
+  height: 30px;
+}
+footer .social .img-twitter {
+  float: left;
+  bottom: 10px;
+  width: 30px;
+  height: 30px;
+}
+footer .social .img-googleplus {
+  float: right;
+  width: 30px;
+  height: 30px;
+}
+footer .copyright {
+  font-size: 11px;
+  color: #c4c4c4;
+  position: absolute;
+  bottom: 0px;
+}
+/*Classes*/
+/*Navigation Bar*/
+.navbar {
+  padding: 10px;
+  background-color: #40c4d6;
+  border: 1px solid black;
+}
+.navbar a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 0 50px;
+}
+.navbar a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+/*Browse Button  */
+.browse {
+  width: 125px;
+  text-align: center;
+  padding: 10px;
+  background-color: #40c4d6;
+  border: 1px solid black;
+  margin: 50px 0 0 490px;
+}
+.browse a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.browse a:hover {
+  font-family: 'Patua One', cursive;
+  color: #000000  ;
+  text-decoration: none;
+}
+/*Account Button*/
+.account {
+  width: 125px;
+  text-align: center;
+  padding: 10px;
+  background-color: #40c4d6;
+  border: 1px solid black;
+  margin: -58px 0 0 780px;
+}
+.account a {
+  font-family: 'Patua One', cursive;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.account a:hover{
+  color: black;
+  text-decoration: none;
+}
+
+/*Sign Up Page*/
+.form {
+  text-align: center;
+}
+.form p {
+  font-weight: bold;
+  border: 0px;
+  font-size: 17px;
+}
+
+/*Products Page*/
+.products li{
+  list-style: none;
+}
+.products .item1{
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  width: 200px;
+  height: 250px;
+  margin: 75px 0 0 125px;
+}
+.products .item2{
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  width: 200px;
+  height: 250px;
+  margin: -270px 0 0 425px;
+}
+.products .item3{
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  width: 200px;
+  height: 250px;
+  margin: -270px 0 0 725px;
+}
+.products .item4{
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  width: 200px;
+  height: 250px;
+  margin: -270px 0 0 1025px;
+}
+.products .item1 .cappucino {
+  width: 175px;
+  height: 125px;
+}
+.products .item2 .hotchoc {
+  width: 175px;
+  height: 125px;
+}
+.products .item3 .espresso {
+  width: 175px;
+  height: 125px;
+}
+.products .item4 .mocha {
+  width: 175px;
+  height: 125px;
+}
+.products .item1 .strawcheese {
+  width: 175px;
+  height: 125px;
+}
+.products .item2 .cheesecake {
+  width: 175px;
+  height: 125px;
+}
+.products .item3 .blackforest {
+  width: 175px;
+  height: 125px;
+}
+.products .item4 .chocmousse {
+  width: 175px;
+  height: 125px;
+}
+.products .item1 .chickscnitburg {
+  width: 175px;
+  height: 125px;
+}
+.products .item2 .avoeggsandwich {
+  width: 175px;
+  height: 125px;
+}
+.products .item3 .hamsandwich {
+  width: 175px;
+  height: 125px;
+}
+.products .item4 .croissant {
+  width: 175px;
+  height: 125px;
+}
+.pages {
+  text-align: center;
+}
+.pages a {
+  color: #ffffff;
+  text-align: center;
+}
+
+/*Individual Products Pages */
+.cap h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.cap p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.cap img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.hotchoc h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.hotchoc p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.hotchoc img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.espresso h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.espresso p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.espresso img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.mocha h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.mocha p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.mocha img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.strawb h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.strawb p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.strawb img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.cheesecake h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.cheesecake p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.cheesecake img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.blackforest h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.blackforest p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.blackforest img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.chocmousse h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.chocmousse p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.chocmousse img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.chickscnitburg h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.chickscnitburg p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.chickscnitburg img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.hamsandwich h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.hamsandwich p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.hamsandwich img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.avoegg h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.avoegg p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.avoegg img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}
+.croissant h3{
+  font-family: 'Patua One', cursive;
+  text-align: center;
+}
+.croissant p{
+  font-size: 14px;
+  margin: 0 0 0 575px;
+  text-align: left;
+}
+.croissant img{
+  position: relative;
+  left: 41%;
+  height: 200px;
+  width: 250px;
+}

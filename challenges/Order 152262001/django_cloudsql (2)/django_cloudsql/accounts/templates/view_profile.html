@@ -1,0 +1,68 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+{% if request.user.is_authenticated %}
+<title>Profile</title>
+<div class="container">
+	<div class="row mt-3"></div>
+    <div class="row">
+		<div class="col-md-3">
+			<div class="card">
+  				<div class="card-header">
+    				Your Profile
+  				</div>
+  					<div class="card-body">
+					<div class="profile-name">
+						{{user.first_name}} {{user.last_name}}
+					</div>
+					<div class="profile-address">
+						{{profile.address}}
+					</div>
+					<div class="profile-city">
+						{{profile.city}}
+					</div>
+					<div class="profile-email">
+						{{user.email}}
+					</div>
+					<div class="profile-phone">
+						{{profile.phone_number}}
+					</div>
+					<a href="{% url 'edit_profile' %}" class="btn btn-dark float-right">Edit</a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-7">
+			<div class="card">
+				{% if request.user.is_staff %}
+				<div class="card-header">
+    				For employees only!
+  				</div>
+  				<div class="card-body">
+				<a href="{% url 'all_orders' %}" class="btn btn-primary" role="button" >Orders</a>
+				<a href="{% url 'all_items' %}" class="btn btn-secondary" role="button" >Items</a>
+				<a href="{% url 'all_users' %}" class="btn btn-dark" role="button" >Users</a>
+				</div>
+				{% else %}
+
+  				<div class="card-header">
+    				List of your orders:
+  				</div>
+            	<div class="card-body">
+				{% for order in orders %}	
+				<h5>Order ID {{order.id}} - {{order.date_order}}</h5>
+				<p></p>
+				{% for i in order.items.all %}
+				<p>art. {{ i.id }} - {{ i.title }}</p>
+				<p>{{ i.description }}</p>
+				{% endfor %}
+				{% endfor %}
+				</div>
+				{% endif %}
+			</div>
+        </div>
+	</div>
+</div>
+{% endif %}
+
+{% endblock %}

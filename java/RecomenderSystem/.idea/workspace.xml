@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44b187b1-f1b3-4c95-acf8-2a8bf02293df" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shop/OnlineShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1045#1046#0" expanded="true" />
+                <element signature="e#1121#1122#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/product/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="53" column="109" selection-start-line="53" selection-start-column="109" selection-end-line="53" selection-end-column="109" />
+              <folding>
+                <element signature="e#1317#1318#0" expanded="true" />
+                <element signature="e#1387#1388#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/product/Bed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/product/Laptop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+              <folding>
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shop/ShopGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="130" column="38" selection-start-line="130" selection-start-column="38" selection-end-line="130" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shop/CartWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="25" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/product/Shoes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+              <folding>
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/shop/OnlineShopApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#ProductNotFoundException#0;class#OnlineShopApp#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/product/Milk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/product/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>populateCart</find>
+      <find>products</find>
+      <find>amountOwning</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Product.java" />
+        <option value="$PROJECT_DIR$/src/PurchaseHistory.java" />
+        <option value="$PROJECT_DIR$/src/PaymentSystem.java" />
+        <option value="$PROJECT_DIR$/src/product/RecommendedItem.java" />
+        <option value="$PROJECT_DIR$/src/product/LaptopTest.java" />
+        <option value="$PROJECT_DIR$/src/database/PurchaseHistory.java" />
+        <option value="$PROJECT_DIR$/src/payement/PaymentSystem.java" />
+        <option value="$PROJECT_DIR$/src/recomendation/RecommendedItem.java" />
+        <option value="$PROJECT_DIR$/src/database/purchaseHistoryupdated.txt" />
+        <option value="$PROJECT_DIR$/src/product/Laptop.java" />
+        <option value="$PROJECT_DIR$/src/product/Phone.java" />
+        <option value="$PROJECT_DIR$/src/database/ProductDatabase.java" />
+        <option value="$PROJECT_DIR$/src/shop/OnlineShop.java" />
+        <option value="$PROJECT_DIR$/src/recomendation/RecommenderSystem.java" />
+        <option value="$PROJECT_DIR$/src/shop/CartWindow.java" />
+        <option value="$PROJECT_DIR$/src/product/Product.java" />
+        <option value="$PROJECT_DIR$/src/product/Bed.java" />
+        <option value="$PROJECT_DIR$/src/product/Milk.java" />
+        <option value="$PROJECT_DIR$/src/product/Shoes.java" />
+        <option value="$PROJECT_DIR$/src/shop/ShopGUI.java" />
+        <option value="$PROJECT_DIR$/src/shop/OnlineShopApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="106" />
+    <option name="y" value="27" />
+    <option name="width" value="1421" />
+    <option name="height" value="782" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="payement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="recomendation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecomenderSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecomenderSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="product" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="OnlineShopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shop.OnlineShopApp" />
+      <module name="RecomenderSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineShopApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44b187b1-f1b3-4c95-acf8-2a8bf02293df" name="Default Changelist" comment="" />
+      <created>1570957029201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570957029201</updated>
+      <workItem from="1570957119343" duration="19776000" />
+      <workItem from="1570995328304" duration="3409000" />
+      <workItem from="1571001351915" duration="23000" />
+      <workItem from="1571001470496" duration="3635000" />
+      <workItem from="1571043027785" duration="2341000" />
+      <workItem from="1571048290279" duration="13604000" />
+      <workItem from="1571123567734" duration="10313000" />
+      <workItem from="1571207166245" duration="1038000" />
+      <workItem from="1571211635364" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54203000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49853802" visible="true" weight="0.2773488" />
+      <window_info id="Structure" order="1" sideWeight="0.50073206" side_tool="true" weight="0.21943372" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30645162" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3293011" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/shop.OnlineShop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>shop.OnlineShop</OriginalElement>
+          <nodes>
+            <node x="" y="">shop.OnlineShop</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="63.0" y="14.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/LaptopTest.java" />
+    <entry file="file://$PROJECT_DIR$/RecomenderSystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/purchaseHistoryupdated.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recomendation/RecommendedItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/PurchaseHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/payement/PaymentSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Screenshot 2019-10-14 01:07:36.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recomendation/RecommenderSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="96" column="29" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/ProductDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="53" column="109" selection-start-line="53" selection-start-column="109" selection-end-line="53" selection-end-column="109" />
+          <folding>
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1387#1388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/Bed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shop/ShopGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="38" selection-start-line="130" selection-start-column="38" selection-end-line="130" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shop/CartWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/Shoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shop/OnlineShopApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="122" column="25" selection-start-line="122" selection-start-column="25" selection-end-line="122" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ProductNotFoundException#0;class#OnlineShopApp#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shop/OnlineShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
